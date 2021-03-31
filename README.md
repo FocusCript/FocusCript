@@ -4,9 +4,11 @@ My name is Shakh and I'm a web developer living in Uzbekistan. My current focus 
 
 ### :metal: About me
   - 1+ years of experience as a software engineer.
-  - Website: 
-  - Blog: 
+  - Website: [here][site]
+  - Blog: [here][site]
 &nbsp;
+
+[site]: https://dev-shakh.herokuapp.com/
 
 ### :sunrise_over_mountains: Hobbies
 - table tennis, chess & I am incredibly interested in solving complex and non-trivial problems. 
@@ -33,7 +35,7 @@ const shakh = {
       'Serverless architecture', 'Progressive web applications',
     ],
     currentSideProjects: [
-      'Publishing a drag & drop npm library', 'Working on a IoT kegerator',
+      'Working on the chat application (NeuraChat)!',
     ],
     askMeAbout: ['web dev', 'coding', 'tech'],
     funFacts: 'I tried teaching kids math for a while... it`s much harder than it looks! :)',
@@ -67,5 +69,4 @@ Self-study               5 hrs               ███░░░░░░░░�
 <hr />
 
 &nbsp;
-&nbsp;
-**Page Visits:** ![Visitor Count](https://profile-counter.glitch.me/joshcaplin/count.svg)
+
