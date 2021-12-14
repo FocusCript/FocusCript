@@ -59,12 +59,7 @@ Self-study               5 hrs               ███░░░░░░░░�
 ### :book: Favorite books
 <img src="images/clean-arc.jpg">
 <hr />
-<img src="images/best-js.jpg">
-<hr />
-<img src="images/patterns-js.jpg">
-<hr />
-<img src="images/ts.jpg">
-<hr />
+
 
 &nbsp;
 
