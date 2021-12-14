@@ -3,9 +3,7 @@
 My name is Shakh and I'm a web developer living in Uzbekistan. My current focus is full-stack web development - mainly with React, NodeJS and related technologies.
 
 ### :metal: About me
-  - 1+ years of experience as a software engineer.
-  - Website: [here][site]
-  - Blog: [here][site]
+  - 2+ years of experience as a software engineer.
 &nbsp;
 
 [site]: https://dev-shakh.herokuapp.com/
