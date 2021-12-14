@@ -1,4 +1,4 @@
-# Hi there! <img src="images/wave.gif" width="50px">
+# Hi Guy! <img src="images/wave.gif" width="50px">
 
 My name is Shakh and I'm a web developer living in Uzbekistan. My current focus is full-stack web development - mainly with React, NodeJS and related technologies.
 
