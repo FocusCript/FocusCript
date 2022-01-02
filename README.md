@@ -12,7 +12,6 @@ I am writing some code to help someone with something! After all, all this is fo
 
 ### :dart: Future Goals
 - I'd like to help others get into software development.  It seems like a common concern is that people don't know how to get started, or no one will hire them without IT experience so I'd like to share some strategies to get past those roadblocks. 
-```
 
 ## Some Stats 📊
 ![](https://komarev.com/ghpvc/?username=FocusCript&style=flat&color=yellow)
