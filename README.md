@@ -4,8 +4,6 @@ My name is Shakh and I'm a web developer living in Uzbekistan. My current focus 
 
 I am writing some code to help someone with something! After all, all this is for people, and not vice versa :)
 
-&nbsp;
-
 ### :sunrise_over_mountains: Hobbies
 - table tennis, chess & I am incredibly interested in solving complex and non-trivial problems. 
 &nbsp;
