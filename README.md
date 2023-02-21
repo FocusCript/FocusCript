@@ -1,7 +1,5 @@
 # Hi Guys! <img src="images/wave.gif" width="50px">
 
-
-
 ### :sunrise_over_mountains: Hobbies
 - table tennis, chess & I am incredibly interested in solving complex and non-trivial problems. 
 &nbsp;
