@@ -1,8 +1,6 @@
 # Hi Guys! <img src="images/wave.gif" width="50px">
 
-My name is Shakh and I'm a web developer living in Uzbekistan. My current focus is full-stack web development - mainly with React, NodeJS and related technologies.
 
-I am writing some code to help someone with something! After all, all this is for people, and not vice versa :)
 
 ### :sunrise_over_mountains: Hobbies
 - table tennis, chess & I am incredibly interested in solving complex and non-trivial problems. 
